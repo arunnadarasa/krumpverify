@@ -1,6 +1,6 @@
 # Building Apps with EVVM, x402, and Wrapped USDC on Story Aeneid
 
-A step-by-step guide from the Krump Verify project: what we learned, what failed, and how we fixed it. Use this to build similar apps that take payments via **EVVM** (Ethereum Virtual Value Machine), **x402** (signed payment authorization), and **USDC.k** (wrapped USDC) on **Story Aeneid** (chain 1315).
+A step-by-step guide from the **Agent-to-Agent Krump Verification Protocol** — pay via x402/EVVM on Story Aeneid and verify on-chain. What we learned, what failed, and how we fixed it. Use this to build similar apps that take payments via **EVVM** (Ethereum Virtual Value Machine), **x402** (signed payment authorization), and **USDC.k** (wrapped USDC) on **Story Aeneid** (chain 1315).
 
 ---
 

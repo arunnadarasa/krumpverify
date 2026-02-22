@@ -1,6 +1,8 @@
 ## Krump Verify
 
-On-chain verification for dance moves against registered IP (Story). Users pay a USDC.k fee; receipts are stored on-chain and fees are split via **KrumpTreasury**.
+**Agent-to-Agent Krump Verification Protocol** — pay via x402/EVVM on Story Aeneid and verify on-chain.
+
+On-chain verification for dance moves against registered IP (Story). Users and agents pay a USDC.k fee; receipts are stored on-chain and fees are split via **KrumpTreasury**.
 
 **→ [Building with EVVM, x402 & USDC.k on Story Aeneid](docs/BUILDING_WITH_EVVM_X402_STORY_AENEID.md)** — step-by-step guide: architecture, failures we hit (EVVM payment failed, IP registry, funding UX, relayer, deploy), and how we fixed them. Use it to build similar apps.
 

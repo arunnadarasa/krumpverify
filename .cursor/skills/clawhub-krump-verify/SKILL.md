@@ -5,7 +5,7 @@ description: Enables AI agents (e.g. OpenClaw) to understand and use Krump Verif
 
 # ClawHub & Krump Verify for Agents
 
-Use this skill when working with [ClawHub](https://clawhub.ai/) and Krump Verify: on-chain verification of dance moves against registered Story IP, with payment in USDC.k or via x402/EVVM payment receipts. Agents can perform verifications autonomously; humans can audit on-chain.
+Use this skill when working with [ClawHub](https://clawhub.ai/) and **Krump Verify** (Agent-to-Agent Krump Verification Protocol — pay via x402/EVVM on Story Aeneid and verify on-chain): on-chain verification of dance moves against registered Story IP, with payment in USDC.k or via x402/EVVM payment receipts. Agents can perform verifications autonomously; humans can audit on-chain.
 
 **Building a similar app?** See **[docs/BUILDING_WITH_EVVM_X402_STORY_AENEID.md](../../../docs/BUILDING_WITH_EVVM_X402_STORY_AENEID.md)** for step-by-step EVVM/x402/USDC.k on Story Aeneid: architecture, failures (EVVM payment failed, IP registry, funding UX), and fixes.
 
