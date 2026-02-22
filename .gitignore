@@ -1,0 +1,27 @@
+# Dependencies
+node_modules/
+lib/
+
+# Build / cache
+cache/
+out/
+broadcast/
+dist/
+
+# Environment and secrets (never commit)
+.env
+.env.local
+.env.*.local
+*.pem
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+*.swp
+*.swo
+
+# Foundry
+coverage/
+coverage_lcov.info
+.cursor/debug.log
